@@ -4,7 +4,7 @@ I build production-oriented AI systems with a focus on backend infrastructure, a
 
 - 🧠 Focus: Designing reliable AI systems, inference pipelines, decision layers, and human-in-the-loop workflows.
 
-- ⚙️ Interests: LLM-powered systems, scalable backend architecture for AI applications, Fraud detection, risk modeling.
+- ⚙️ Interests: LLM-powered systems, scalable backend architecture for AI applications
 
 - 🤝 Open to collaborate on: ML-powered APIs, Fintech systems or real-world AI infrastructure projects.
 
